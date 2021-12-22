@@ -213,4 +213,4 @@ if __name__ == '__main__':
     sortTest(mergeSort, TOTAL)
     sortTest(quickSort, TOTAL)
     sortTest(heapSort, TOTAL)
-    sortTest(radixSort, TOTAL)
+    # sortTest(radixSort, TOTAL)
